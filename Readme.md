@@ -1,4 +1,9 @@
 # Smart Energy Consumption System
+# Smart Energy Consumption System
+
+🔗 **Live Demo:** https://smart-energy-consumption-system-8xrwmuugpzpcxww3prg5.streamlit.app/
+
+A web application built using Python and Streamlit to analyze monthly electricity consumption.
 
 A web application built using Python and Streamlit to analyze monthly electricity consumption.
 
