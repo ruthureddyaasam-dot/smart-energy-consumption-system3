@@ -1,10 +1,8 @@
 # Smart Energy Consumption System
 
-
 🔗 **Live Demo:** https://smart-energy-consumption-system-8xrwmuugpzpcxww3prg5.streamlit.app
 
 A web application built using Python and Streamlit to analyze monthly electricity consumption.
-
 
 ## Features
 - Monthly electricity data entry
@@ -19,12 +17,3 @@ A web application built using Python and Streamlit to analyze monthly electricit
 - Streamlit
 - Pandas
 - SQLite
-
-## Run the Project
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the application:
-
-streamlit run app.py
